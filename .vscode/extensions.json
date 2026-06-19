@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "fill-labs.dependi",
+        "voidzero.vite-plus-extension-pack"
+    ],
+    "unwantedRecommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+    ]
+}
