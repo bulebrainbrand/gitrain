@@ -1,6 +1,10 @@
 {
-  "name": "@gitrain/core",
+  "name": "@gitrain/accessor",
   "type": "module",
+  "exports": {
+    ".": "./dist/index.mjs",
+    "./package.json": "./package.json"
+  },
   "scripts": {
     "build": "vp pack",
     "dev": "vp test --watch",
