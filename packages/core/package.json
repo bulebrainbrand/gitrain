@@ -1,6 +1,5 @@
 {
   "name": "@gitrain/core",
-  "type": "module",
   "scripts": {
     "build": "vp pack",
     "dev": "vp test --watch",
